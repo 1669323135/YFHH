@@ -1,0 +1,5 @@
+supportedContent: ALL
+minimumSupportedBuild: 744825
+APIVersion: 2
+version: "1.0.0-U59-744825"
+staticID: ModTranslator
